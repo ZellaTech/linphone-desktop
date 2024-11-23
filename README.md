@@ -1,4 +1,4 @@
-# Linphone Desktop
+# Linphone Desktop-sync
 
 Linphone is an open source softphone for voice and video over IP calling and instant messaging.
 
